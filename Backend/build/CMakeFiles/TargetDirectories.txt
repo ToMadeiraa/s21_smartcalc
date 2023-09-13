@@ -1,0 +1,8 @@
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/Calculator_GUI.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/edit_cache.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/rebuild_cache.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/list_install_components.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/install.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/install/local.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/install/strip.dir
+/home/vyacheslave/Desktop/SmartCalculator_v1.0-main/Backend/build/CMakeFiles/Calculator_GUI_autogen.dir
